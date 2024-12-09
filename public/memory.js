@@ -31,7 +31,7 @@ function setAnswers(changes) {
 }
 
 function cycleImage() {
-    setImage("__loading__.jpg");
+    setImage("__loading__.png");
     setTimeout(() => {
         setImage(CURRENT_IMAGE['filename'])
     }, BLANK_TIME * 1000)
