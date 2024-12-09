@@ -1,0 +1,23 @@
+body {
+    background-color: darkseagreen;
+}
+
+#current-image {
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+}
+
+#scene-changer {
+    height: 60px;
+    font-size: larger;
+    background-color: black;
+    color: white;
+    font-family: Courier, serif;
+}
+
+details {
+    font-size: x-large;
+    font-family: Courier, serif;
+}
