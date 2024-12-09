@@ -1,4 +1,4 @@
-{
+export const images =  {
     "images": {
         "e75847d6-a0ef-4caf-b868-e3fccc9c4402.png": {
             "filename": "e75847d6-a0ef-4caf-b868-e3fccc9c4402.png",
